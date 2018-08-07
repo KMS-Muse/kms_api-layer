@@ -1,2 +1,2 @@
-# kms_api-layer
-Backend API layer for all calls from the outside.
+# Backend API
+All calls from the frontend and the desktop client are processed here.
